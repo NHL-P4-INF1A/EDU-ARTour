@@ -19,7 +19,11 @@ public static final XAPKFile[] xAPKS = {
 new XAPKFile(
 true, // true signifies a main file
 "1", // the version of the APK that the file was uploaded against
+<<<<<<< Updated upstream
 33690205L // the length of the file in bytes
+=======
+49678881L // the length of the file in bytes
+>>>>>>> Stashed changes
 )
 };
 };
