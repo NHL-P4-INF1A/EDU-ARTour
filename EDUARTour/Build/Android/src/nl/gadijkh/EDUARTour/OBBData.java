@@ -1,4 +1,4 @@
-package com.YourCompany.EDUARTour;
+package nl.gadijkh.EDUARTour;
 
 public class OBBData
 {
@@ -18,8 +18,8 @@ mFileSize = fileSize;
 public static final XAPKFile[] xAPKS = {
 new XAPKFile(
 true, // true signifies a main file
-"1", // the version of the APK that the file was uploaded against
-130945996L // the length of the file in bytes
+"3", // the version of the APK that the file was uploaded against
+109195057L // the length of the file in bytes
 )
 };
 };

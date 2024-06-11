@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.YourCompany.EDUARTour.OBBDownloaderService;
-import com.YourCompany.EDUARTour.DownloaderActivity;
+import nl.gadijkh.EDUARTour.OBBDownloaderService;
+import nl.gadijkh.EDUARTour.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.EDUARTour.OBBData;
+import nl.gadijkh.EDUARTour.OBBData;
 
 
 public class DownloadShim

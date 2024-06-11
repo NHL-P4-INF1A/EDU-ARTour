@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.EDUARTour;
+package nl.gadijkh.EDUARTour;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 
