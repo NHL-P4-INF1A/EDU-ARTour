@@ -21,10 +21,6 @@
 			"SupportedTargetPlatforms": [
 				"Android"
 			]
-		},
-		{
-			"Name": "WebBrowserWidget",
-			"Enabled": true
 		}
 	]
 }
