@@ -30,3 +30,10 @@ EDU-ARTour uses a number of open source projects to work properly:
 - Pushed whole development branch structure to main instead of only the most recent commit
     - There are now 27 commits in main instead of one
 - Wrote commit in Dutch
+
+## Other Mistakes/bugs
+- 1 banner is reversed
+- Bannertext is not translated
+- Camera Permission error, first time opening the app does the camera not work
+- Some translations in the main menu doesn't work
+- Google won't publish the app because of Storage permission error.
